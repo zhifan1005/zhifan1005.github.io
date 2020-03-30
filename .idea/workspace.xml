@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37bbf12a-4f86-41e2-8d58-4ced499d0b63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/3-hexo/source/img/avater.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/3-hexo/source/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-10-28- Centos-7-配置-supervisor-遇到的坑.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-12-13- Centos-7-配置-supervisor-遇到的坑.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-10-28- Let's Encrypt 实现nginx站点 SSL.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-10-28- Let's Encrypt 实现nginx站点 SSL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-10-28- MYSQL主从复制.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-10-28- MYSQL主从复制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-10-28- laravel5-5-动态切换多语言操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-10-28- laravel5-5-动态切换多语言操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-10-28- laravel集成微信第三方登录.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-10-28- laravel集成微信第三方登录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-11-29-Jekyll搭建静态页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-11-29-Jekyll搭建静态页面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-06- 让Laravel开发Api更得心应手.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-06- 让Laravel开发Api更得心应手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-09-基于swoole实现高性能HTTP服务器.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-11-基于swoole实现高性能HTTP服务器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-10-在 Laravel 中集成 Swoole 实现 WebSocket 服务器.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-11-在 Laravel 中集成 Swoole 实现 WebSocket 服务器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-12-基于 Swoole 在 Laravel 中实现异步任务队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-12-基于 Swoole 在 Laravel 中实现异步任务队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-17-基于 SMProxy 通过协程调度实现 MySQL 连接池.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-17-基于 SMProxy 通过协程调度实现 MySQL 连接池.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-25-以动画的方式，快速直观地查看 Git 文件变动历史.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-25-以动画的方式，快速直观地查看 Git 文件变动历史.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-26-Ubuntu18.04 搭建 PHP 环境.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-26-Ubuntu18.04 搭建 PHP 环境.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-26-收藏的好文链接(长期更新).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-26-收藏的好文链接(长期更新).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2019-12-27-ubuntu 安装 elasticsearch和ik-analyzer中文分词.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-12-27-ubuntu 安装 elasticsearch和ik-analyzer中文分词.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020-01-02-网页调用微信Jssdk实现扫一扫功能.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020-01-02-网页调用微信Jssdk实现扫一扫功能.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020-01-27-https协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020-01-27-https协议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020-01-28-HTTP认证实现方案介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020-01-28-HTTP认证实现方案介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020-01-29-BS结构和CS结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020-01-29-BS结构和CS结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020-03-28-laravel7.0广播机制(Redis + socket.io).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020-03-28-laravel7.0广播机制(Redis + socket.io).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/3-hexo/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/3-hexo/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/3-hexo/layout/indexs.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/3-hexo/layout/indexs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/3-hexo/source/img/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/3-hexo/source/img/alipay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/3-hexo/source/img/weixin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/3-hexo/source/img/weixin.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-26-HTTP协议详解.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="87">
+                <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-27-https协议.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="58">
+                <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-28-HTTP认证实现方案介绍.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="58">
+                <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/3-hexo/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="158" column="10" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/3-hexo/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="754">
+                <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/3-hexo/layout/indexs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="348">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/3-hexo/layout/_partial/article_copyright.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="107" lean-forward="true" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/404/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="174">
+                <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2987">
+              <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/static/img</find>
+      <find>/img/alipay.jpg</find>
+      <find>../static/img</find>
+      <find>/themes/3-hexo/source/img</find>
+      <find>hexo-pagination</find>
+      <find>link</find>
+      <find>gitment</find>
+      <find>版权声明</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../static/img</replace>
+      <replace>/static/img</replace>
+      <replace>@</replace>
+      <replace>@[toc]</replace>
+      <replace>/img</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/_posts/2020-01-26-HTTP协议详解.md" />
+        <option value="$PROJECT_DIR$/node_modules/hexo-generator-index/lib/generator.js" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-10-28- laravel5-5-动态切换多语言操作.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-10-28- Centos-7-配置-supervisor-遇到的坑.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-10-28- laravel集成微信第三方登录.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-10-28- Let's Encrypt 实现nginx站点 SSL.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-10-28- MYSQL主从复制.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-11-29-Jekyll搭建静态页面.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-09-基于swoole实现高性能HTTP服务器.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-10-在 Laravel 中集成 Swoole 实现 WebSocket 服务器.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-11-在 Laravel 中集成 Swoole 实现 WebSocket 服务器.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2018-12-13- Centos-7-配置-supervisor-遇到的坑.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-06- 让Laravel开发Api更得心应手.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-11-基于swoole实现高性能HTTP服务器.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-12-基于 Swoole 在 Laravel 中实现异步任务队列.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-17-基于 SMProxy 通过协程调度实现 MySQL 连接池.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-25-以动画的方式，快速直观地查看 Git 文件变动历史.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-26-Ubuntu18.04 搭建 PHP 环境.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-26-收藏的好文链接(长期更新).md" />
+        <option value="$PROJECT_DIR$/source/_posts/2019-12-27-ubuntu 安装 elasticsearch和ik-analyzer中文分词.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2020-01-02-网页调用微信Jssdk实现扫一扫功能.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2020-01-27-https协议.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2020-01-28-HTTP认证实现方案介绍.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2020-01-29-BS结构和CS结构.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2020-03-28-laravel7.0广播机制(Redis + socket.io).md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/404/index.md" />
+        <option value="$PROJECT_DIR$/themes/3-hexo/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/3-hexo/layout/indexs.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="938" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="3-hexo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="3-hexo" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="renzhifan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="renzhifan" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="3-hexo" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="_partial" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/3-hexo/source/img" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/3-hexo/source/img" />
+      <recent name="$PROJECT_DIR$/source" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/3-hexo/source/img" />
+      <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/source/_posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37bbf12a-4f86-41e2-8d58-4ced499d0b63" name="Default Changelist" comment="" />
+      <created>1585534599532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585534599532</updated>
+      <workItem from="1585534601068" duration="6072000" />
+      <workItem from="1585541718852" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6515000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/toc.js" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/_posts/2020-01-27-https协议.md" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md" />
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret column="1355" selection-start-column="1355" selection-end-column="1355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="812" column="54" selection-start-line="812" selection-start-column="54" selection-end-line="812" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo-generator-index/lib/generator.js" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-10-28- laravel集成微信第三方登录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+            <folding>
+              <element signature="e#54#68#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-10-28- Let's Encrypt 实现nginx站点 SSL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-10-28- MYSQL主从复制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-11-29-Jekyll搭建静态页面.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-13- Centos-7-配置-supervisor-遇到的坑.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-10-28- laravel5-5-动态切换多语言操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <folding>
+              <element signature="e#37#49#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-17-基于 SMProxy 通过协程调度实现 MySQL 连接池.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-12-基于 Swoole 在 Laravel 中实现异步任务队列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-11-基于swoole实现高性能HTTP服务器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-11-在 Laravel 中集成 Swoole 实现 WebSocket 服务器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <folding>
+              <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-06- 让Laravel开发Api更得心应手.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-25-以动画的方式，快速直观地查看 Git 文件变动历史.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-26-Ubuntu18.04 搭建 PHP 环境.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-26-收藏的好文链接(长期更新).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-12-27-ubuntu 安装 elasticsearch和ik-analyzer中文分词.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-29-BS结构和CS结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-03-28-laravel7.0广播机制(Redis + socket.io).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <folding>
+              <element signature="e#28#64#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/source/img/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/source/img/article-list-background.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/source/img/alipay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/source/img/weixin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-02-网页调用微信Jssdk实现扫一扫功能.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-26-HTTP协议详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-27-https协议.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2020-01-28-HTTP认证实现方案介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/404/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2987">
+          <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="754">
+            <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="158" column="10" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/layout/_partial/article_copyright.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="107" lean-forward="true" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/3-hexo/layout/indexs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
